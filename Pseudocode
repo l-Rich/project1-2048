@@ -1,0 +1,21 @@
+/*  const startBoard = 2 random numbers
+const randomNumbers = ['2','4']
+
+moves key arrow (up down left right)
+tileMerges
+if tile[2] === tile[3]
+return tile[2]+tile[3]
+
+else 
+return tile[2]
+
+tileMove
+add listener key left, right, up, down
+and
+new tile appears
+score = sum of tiles on the board
+
+game won condition 
+boardFull === true
+
+*/
