@@ -9,4 +9,8 @@ The player will then use the keyboard arrows to make a move
 
     the same thing will happen if the player selects up down or right
 
+<<<<<<< HEAD
 The game is over once one cell equals 2048 or there are no more moves that can legally be made
+=======
+The game is over once one cell equals 2048 or there are no more moves that can legally be made
+>>>>>>> a66bb36 (working make board)
