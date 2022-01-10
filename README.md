@@ -18,4 +18,4 @@ The game is over once one cell equals 2048 or there are no more moves that can l
 
 Can you reach 2048?!
 
-<a href="https://github.com/l-Rich/project1-2048.git"> Click me to Start </a>
+<a href="https://l-rich.github.io/project1-2048/"> Click me to Start </a>
