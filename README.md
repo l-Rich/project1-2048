@@ -1,16 +1,17 @@
 # project1-2048
 
-User story:
+2048 is not your grandmothers math game. Its addicting and challenging to reach the 2048th square! 
 
-When a player starts the game two cells will be filled with starter values (2 or 4)
+To start the game two cells will be filled with a starter value- a two!
 
-The player will then use the keyboard arrows to make a move
-    left will shift all the cells to the left. If there is a cell with the same number next to each other the numbers will be combined into one cell
+From there you will then use the keyboard arrows to make a move
+left will shift all the cells to the left.
+right will shift all the cells to the right. 
 
-    the same thing will happen if the player selects up down or right
+You get it?
 
-<<<<<<< HEAD
+As the cells are shifting, if there is a cell with the same number next to each other the numbers will be combined into one cell
+
 The game is over once one cell equals 2048 or there are no more moves that can legally be made
-=======
-The game is over once one cell equals 2048 or there are no more moves that can legally be made
->>>>>>> a66bb36 (working make board)
+
+Can you reach 2048?!
