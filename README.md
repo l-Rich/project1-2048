@@ -17,3 +17,5 @@ As the cells are shifting, if there is a cell with the same number next to each 
 The game is over once one cell equals 2048 or there are no more moves that can legally be made
 
 Can you reach 2048?!
+
+<link a href= "file:///Users/lauren/Sei1213/Homework/project1-2048/index.html"> Click me to Start </link>
