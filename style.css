@@ -1,18 +1,65 @@
-    .grid {
+   body {
+     background-image: url('https://knowledge4you.com/wp-content/uploads/2014/01/survey-bkg-1.jpg'); 
+      font-family: 'Fredericka the Great', cursive;
+      background-repeat: no-repeat;
+      background-size: cover
+   }
+    
+   h1 {
+     font-size: 75px;
+     color: white;
+     position: absolute;
+     left: 180px;
+     
+   }
+    
+   
+   .grid {
     display: flex;
     flex-wrap: wrap;
-    background-color: #887e6d;
-    width: 400px;
-    height: 400px;
+    background-color: #ffffff8f;
+    width: 380px;
+    height: 380px;
+    border-style: groove;
+    position:absolute;
+    left: 300px;
+    top: 250px;
   }
 
   .grid div{
-
-    background-color: rgba(255, 255, 255, 0.8);
+    font-family: 'Nanum Brush Script', cursive;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
     height: 75px;
     width: 75px;
-    border: 5px solid #887e6d;
+    border: 5px solid #000000;
     padding: 5px;
-    font-size: 30px;
+    font-size: 60px;
     text-align: center;
   }
+
+.button {
+  background-color: #cccccc;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  font-family: 'Nanum Brush Script', cursive;
+  position: absolute;
+  top: 700px;
+  left: 400px
+}
+
+#score {
+  color:White
+}
+#results {
+
+  color:white;
+  position: absolute;
+  top: 400px;
+  right: 400px;
+  font-size: 20px;
+}
